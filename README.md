@@ -1,1 +1,1 @@
-- # [My own portfolio](https://sl101.github.io/My-REACT-porfolio)
+- # [My own portfolio](https://sl101.github.io/My-REACT-porfolio/)
